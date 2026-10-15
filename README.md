@@ -5,6 +5,8 @@ A Natural Language Processing (NLP) project that detects the **emotion expressed
 The project takes raw text as input, preprocesses it, converts it into numerical features using TF-IDF, and predicts the most likely emotion.
 
 ---
+## Live URL 
+### ---> https://techyemotiondetection.streamlit.app/
 
 ## 🚀 Project Overview
 

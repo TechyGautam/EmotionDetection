@@ -5,6 +5,9 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 import streamlit as st 
+nltk.download('stopwords')
+nltk.download('punkt')
+nltk.download('punkt_tab')
 
 st.title("Emotion Detection App")
 
