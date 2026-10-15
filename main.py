@@ -8,6 +8,8 @@ import streamlit as st
 nltk.download('stopwords')
 nltk.download('punkt')
 nltk.download('punkt_tab')
+nltk.download('wordnet')
+nltk.download('omw-1.4')
 
 st.title("Emotion Detection App")
 
